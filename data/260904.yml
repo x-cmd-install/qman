@@ -7,7 +7,7 @@ about:
   head: fdeaecf
   archived: false
   latestVersion: v1.5.1
-  collectedAt: 2026-09-04T19:54:58Z
+  collectedAt: 2026-09-04T20:45:26Z
 timeline:
   created: 2023-09-28
   lastCommit: 2026-03-17
@@ -83,5 +83,58 @@ total:
   openIssue: 10
   commit: 431
 ---
+path: /home/runner/.x-repo/github.com/plp13/qman
+collectedAt: 2026-09-04T20:45:27Z
+loc:
+  C:
+    code: 5634
+    comments: 719
+    blanks: 906
+    files: 8
+  CHeader:
+    code: 620
+    comments: 530
+    blanks: 321
+    files: 7
+  Bitbake:
+    code: 322
+    comments: 0
+    blanks: 17
+    files: 6
+  Python:
+    code: 195
+    comments: 0
+    blanks: 1
+    files: 1
+  Meson:
+    code: 186
+    comments: 26
+    blanks: 27
+    files: 6
+  Json:
+    code: 98
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 65
+    comments: 6
+    blanks: 21
+    files: 3
+  Bash:
+    code: 17
+    comments: 4
+    blanks: 6
+    files: 2
+  Markdown:
+    code: 0
+    comments: 928
+    blanks: 265
+    files: 11
+total:
+  code: 7137
+  comments: 2213
+  blanks: 1564
+  files: 45
 ---
 
