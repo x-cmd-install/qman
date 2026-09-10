@@ -4,7 +4,7 @@
 
 A more modern man page viewer for our terminals
 
-![qman](https://repo.x-cmd.io/qman.svg)
+![qman](https://repo.x-cmd.io/qman.svg?lang=zh)
 
 ## 安装
 
@@ -21,7 +21,6 @@ x install qman
 
 - **最新版本**: `v1.5.1` (2025-11-17)
 - **最近提交**: 2026-09-06
-- **发布时间**: 2025-11-17T11:15:45Z
 
 ## 流行度
 
@@ -60,4 +59,4 @@ qman 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:21:59Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:17:04Z._
