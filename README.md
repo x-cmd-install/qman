@@ -46,12 +46,12 @@ Total: **7,137** lines of code across **28** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 2 | 0 | 0 | 1 | 2 |
-| last60d | 2026-07-12 | 0 | 2 | 0 | 0 | 1 | 2 |
-| 90d | 2026-06-12 | 0 | 2 | 0 | 0 | 2 | 2 |
-| last180d | 2026-03-14 | 0 | 4 | 1 | 1 | 5 | 4 |
-| 360d | 2025-09-15 | 1 | 8 | 2 | 8 | 10 | 9 |
-| last720d | 2024-09-20 | 9 | 32 | 2 | 45 | 11 | 298 |
+| 30d | 2026-08-12 | 0 | 2 | 0 | 0 | 1 | 2 |
+| last60d | 2026-07-13 | 0 | 2 | 0 | 0 | 1 | 2 |
+| 90d | 2026-06-13 | 0 | 2 | 0 | 0 | 2 | 2 |
+| last180d | 2026-03-15 | 0 | 4 | 1 | 1 | 5 | 4 |
+| 360d | 2025-09-16 | 1 | 8 | 2 | 8 | 10 | 9 |
+| last720d | 2024-09-21 | 9 | 32 | 2 | 45 | 11 | 298 |
 
 ## Distribution status
 
@@ -74,4 +74,4 @@ Install metadata for qman lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:28:10Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:21:47Z._
