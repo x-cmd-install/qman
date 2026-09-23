@@ -4,7 +4,7 @@
 
 A more modern man page viewer for our terminals
 
-[![x-cmd/install — qman Code Quality Monitoring Repo Card](https://repo.x-cmd.io/qman.svg)](https://x-cmd.com/install/qman)
+[![x-cmd/install — qman Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/qman.svg)](https://x-cmd.com/install/qman)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **7,137** lines of code across **28** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 603 · **Forks**: 22 · **Open issues**: 59 · **Contributors**: 5
+- **Stars**: 605 · **Forks**: 22 · **Open issues**: 59 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **7,137** lines of code across **28** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 1 | 0 | 1 | 2 |
-| last60d | 2026-07-24 | 0 | 2 | 1 | 0 | 1 | 2 |
-| 90d | 2026-06-24 | 0 | 2 | 1 | 0 | 2 | 2 |
-| last180d | 2026-03-26 | 0 | 2 | 1 | 0 | 5 | 2 |
-| 360d | 2025-09-27 | 1 | 6 | 3 | 8 | 10 | 9 |
-| last720d | 2024-10-02 | 9 | 32 | 3 | 45 | 11 | 297 |
+| 30d | 2026-08-24 | 0 | 2 | 1 | 0 | 1 | 2 |
+| last60d | 2026-07-25 | 0 | 2 | 1 | 0 | 1 | 2 |
+| 90d | 2026-06-25 | 0 | 2 | 1 | 0 | 2 | 2 |
+| last180d | 2026-03-27 | 0 | 2 | 1 | 0 | 5 | 2 |
+| 360d | 2025-09-28 | 1 | 6 | 3 | 8 | 10 | 9 |
+| last720d | 2024-10-03 | 9 | 32 | 3 | 45 | 11 | 297 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for qman lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:35:53Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:32:09Z._
