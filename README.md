@@ -36,22 +36,22 @@ Total: **7,137** lines of code across **28** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 608 · **Forks**: 23 · **Open issues**: 62 · **Contributors**: 5
+- **Stars**: 608 · **Forks**: 23 · **Open issues**: 63 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 32 · **Open PRs**: 3 · **Closed issues**: 48 · **Open issues**: 14 · **Commits**: 433
+- **Releases**: 9 · **Merged PRs**: 32 · **Open PRs**: 3 · **Closed issues**: 48 · **Open issues**: 15 · **Commits**: 433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-08-22 | 0 | 2 | 1 | 0 | 4 | 2 |
-| 90d | 2026-07-23 | 0 | 2 | 1 | 0 | 4 | 2 |
-| last180d | 2026-04-24 | 0 | 2 | 1 | 0 | 7 | 2 |
-| 360d | 2025-10-26 | 1 | 6 | 3 | 6 | 12 | 9 |
-| last720d | 2024-10-31 | 9 | 32 | 3 | 43 | 14 | 266 |
+| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 4 | 0 |
+| last60d | 2026-08-23 | 0 | 2 | 1 | 0 | 5 | 2 |
+| 90d | 2026-07-24 | 0 | 2 | 1 | 0 | 5 | 2 |
+| last180d | 2026-04-25 | 0 | 2 | 1 | 0 | 8 | 2 |
+| 360d | 2025-10-27 | 1 | 6 | 3 | 6 | 13 | 9 |
+| last720d | 2024-11-01 | 9 | 32 | 3 | 43 | 15 | 266 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for qman lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:26:01Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:24:59Z._
