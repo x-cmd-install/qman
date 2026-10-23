@@ -1,0 +1,408 @@
+- repo: alpine_3_23
+  subrepo: community
+  srcname: qman
+  binname: qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-r0
+  status: newest
+  summary: Modern man page viewer for the terminal
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_23
+  subrepo: community
+  srcname: qman
+  binname: qman-doc
+  visiblename: qman-doc
+  version: 1.5.1
+  origversion: 1.5.1-r0
+  status: newest
+  summary: Modern man page viewer for the terminal (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: qman
+  binname: qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-r1
+  status: newest
+  summary: Modern man page viewer for the terminal
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: qman
+  binname: qman-doc
+  visiblename: qman-doc
+  version: 1.5.1
+  origversion: 1.5.1-r1
+  status: newest
+  summary: Modern man page viewer for the terminal (documentation)
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: qman
+  binname: qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-r1
+  status: newest
+  summary: Modern man page viewer for the terminal
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: qman
+  binname: qman-doc
+  visiblename: qman-doc
+  version: 1.5.1
+  origversion: 1.5.1-r1
+  status: newest
+  summary: Modern man page viewer for the terminal (documentation)
+  maintainers:
+    - fallback-mnt-alpine@repology
+  licenses:
+    - BSD-2-Clause
+- repo: altsisyphus
+  srcname: qman
+  binnames:
+    - qman
+    - qman-debuginfo
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-alt1
+  status: newest
+  summary: A more modern man page viewer for our terminals
+  maintainers:
+    - snk@altlinux.org
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Documentation
+- repo: aur
+  srcname: qman
+  binname: qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1:1.5.1-1
+  status: newest
+  summary: A more modern manual page viewer for our terminals
+  maintainers:
+    - plp@aur
+  licenses:
+    - BSD-2-Clause
+- repo: aur
+  srcname: qman-git
+  binname: qman-git
+  visiblename: qman-git
+  version: 1.4.3.r104.g9b702ac
+  origversion: 1.4.3.r104.g9b702ac-1
+  status: rolling
+  summary: A more modern manual page viewer for our terminals
+  maintainers:
+    - intelfx@aur
+  licenses:
+    - BSD-2-Clause
+- repo: debian_14
+  subrepo: forky/main
+  srcname: qman
+  binnames:
+    - qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  maintainers:
+    - eriberto@debian.org
+  categories:
+    - doc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: qman
+  binnames:
+    - qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  maintainers:
+    - eriberto@debian.org
+  categories:
+    - doc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: qman
+  binnames:
+    - qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  maintainers:
+    - eriberto@debian.org
+  categories:
+    - doc
+- repo: freebsd
+  srcname: misc/qman
+  binname: qman
+  visiblename: misc/qman
+  version: 1.5.1
+  origversion: null
+  status: newest
+  summary: More modern man page viewer for our terminals
+  maintainers:
+    - tagattie@freebsd.org
+  categories:
+    - misc
+- repo: gentoo_ovl_guru
+  srcname: app-misc/qman
+  visiblename: app-misc/qman
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: A more modern manual page viewer for our terminals
+  maintainers:
+    - rolferen@gmail.com
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: gentoo_ovl_guru
+  srcname: app-misc/qman
+  visiblename: app-misc/qman
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: A more modern manual page viewer for our terminals
+  maintainers:
+    - rolferen@gmail.com
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: gentoo_ovl_guru
+  srcname: app-misc/qman
+  visiblename: app-misc/qman
+  version: 1.4.2
+  origversion: null
+  status: legacy
+  summary: A more modern manual page viewer for our terminals
+  maintainers:
+    - rolferen@gmail.com
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: gnuguix
+  srcname: qman
+  binname: qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: null
+  status: newest
+  summary: Modern man page viewer for terminals
+- repo: homebrew
+  srcname: qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: null
+  status: newest
+  summary: Modern man page viewer
+- repo: kali_rolling
+  subrepo: main
+  srcname: qman
+  binnames:
+    - qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  maintainers:
+    - eriberto@debian.org
+  categories:
+    - doc
+- repo: liguros_stable
+  srcname: app-misc/qman
+  visiblename: app-misc/qman
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: A more modern manual page viewer for our terminals
+  maintainers:
+    - rolferen@gmail.com
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: liguros_stable
+  srcname: app-misc/qman
+  visiblename: app-misc/qman
+  version: 1.4.2
+  origversion: null
+  status: legacy
+  summary: A more modern manual page viewer for our terminals
+  maintainers:
+    - rolferen@gmail.com
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: liguros_stable
+  srcname: app-misc/qman
+  visiblename: app-misc/qman
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: A more modern manual page viewer for our terminals
+  maintainers:
+    - rolferen@gmail.com
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/qman
+  visiblename: app-misc/qman
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: A more modern manual page viewer for our terminals
+  maintainers:
+    - rolferen@gmail.com
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/qman
+  visiblename: app-misc/qman
+  version: 1.4.2
+  origversion: null
+  status: legacy
+  summary: A more modern manual page viewer for our terminals
+  maintainers:
+    - rolferen@gmail.com
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/qman
+  visiblename: app-misc/qman
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: A more modern manual page viewer for our terminals
+  maintainers:
+    - rolferen@gmail.com
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: nix_unstable
+  srcname: qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: null
+  status: newest
+  summary: A more modern man page viewer for our terminals
+  maintainers:
+    - pavel@borzenkov.net
+  licenses:
+    - BSD-2-Clause
+- repo: raspbian_testing
+  subrepo: main
+  srcname: qman
+  binnames:
+    - qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  maintainers:
+    - eriberto@debian.org
+  categories:
+    - doc
+- repo: rosa_2019_1
+  subrepo: contrib/release
+  srcname: qman
+  binnames:
+    - qman
+    - qman-debuginfo
+    - qman-debugsource
+  visiblename: qman
+  version: "0"
+  origversion: 0-0.git4ac825.1
+  status: outdated
+  summary: A more modern man page viewer for our terminals
+  maintainers:
+    - a.proklov@rosalinux.ru
+  licenses:
+    - BSD-2
+  categories:
+    - Documentation
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: qman
+  binnames:
+    - qman
+    - qman-debuginfo
+    - qman-debugsource
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  summary: A more modern man page viewer for our terminals
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - BSD-2
+  categories:
+    - Documentation
+- repo: side
+  srcname: runtime/coma/qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: null
+  status: newest
+  summary: A more modern man page viewer for our terminals.
+  maintainers:
+    - uglyside@yandex.ru
+  licenses:
+    - BSD-2-Clause
+- repo: slackbuilds
+  srcname: system/qman
+  visiblename: system/qman
+  version: 1.5.1
+  origversion: null
+  status: newest
+  maintainers:
+    - xaizek@posteo.net
+  categories:
+    - system
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: qman
+  binnames:
+    - qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  maintainers:
+    - eriberto@debian.org
+  categories:
+    - universe/doc
