@@ -1,28 +1,3 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: qman
-  binnames:
-    - qman
-  visiblename: qman
-  version: 1.5.1
-  origversion: 1.5.1-1
-  status: newest
-  maintainers:
-    - eriberto@debian.org
-  categories:
-    - doc
-- repo: freebsd
-  srcname: misc/qman
-  binname: qman
-  visiblename: misc/qman
-  version: 1.5.1
-  origversion: null
-  status: newest
-  summary: More modern man page viewer for our terminals
-  maintainers:
-    - tagattie@freebsd.org
-  categories:
-    - misc
 - repo: alpine_3_23
   subrepo: community
   srcname: qman
@@ -167,6 +142,31 @@
     - eriberto@debian.org
   categories:
     - doc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: qman
+  binnames:
+    - qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  maintainers:
+    - eriberto@debian.org
+  categories:
+    - doc
+- repo: freebsd
+  srcname: misc/qman
+  binname: qman
+  visiblename: misc/qman
+  version: 1.5.1
+  origversion: null
+  status: newest
+  summary: More modern man page viewer for our terminals
+  maintainers:
+    - tagattie@freebsd.org
+  categories:
+    - misc
 - repo: gentoo_ovl_guru
   srcname: app-misc/qman
   visiblename: app-misc/qman
@@ -395,6 +395,19 @@
     - system
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: qman
+  binnames:
+    - qman
+  visiblename: qman
+  version: 1.5.1
+  origversion: 1.5.1-1
+  status: newest
+  maintainers:
+    - eriberto@debian.org
+  categories:
+    - universe/doc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: qman
   binnames:
     - qman
